@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>phone: (412) 652-2039</p>
-    <p>email: <a href="mailto:hyan49@gmail.com">hyan49@gmail.com</a></p>
+    <p>email: <a href="mailto:hyan49@gatech.com">hyan49@gatech.com</a></p>
+	<p><a href="mailto:jonathanyannis@gmail.com">jonathanyannis@gmail.com</a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

@@ -11,10 +11,10 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: about_me.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+	  <p>phone: (412) 652-2039</p>
+	  <p>email: <a href="mailto:hyan49@gatech.com">hyan49@gatech.com</a></p>
+	  <p><a href="mailto:jonathanyannis@gmail.com">jonathanyannis@gmail.com</a></p>
 ---
