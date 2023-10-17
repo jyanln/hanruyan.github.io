@@ -10,6 +10,7 @@ email: hyan49@gatech.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hanru Yan's personal website
 footer_text: >
+  footer
   
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
