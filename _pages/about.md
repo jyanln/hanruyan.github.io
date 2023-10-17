@@ -9,14 +9,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>phone: (412) 652-2039</p>
-    <p>email: <a href="mailto:hyan49@gatech.com">hyan49@gatech.com</a></p>
-	<p><a href="mailto:jonathanyannis@gmail.com">jonathanyannis@gmail.com</a></p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+news: true  # includes a list of news items
+latest_posts: true  # includes a list of the newest posts
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
 Hi, I'm Jonathan Yan, and I'm a first-year PhD student at the Georgia Institute of Technology. My current research interests are on Program Analysis and Compilers.
