@@ -161,18 +161,18 @@ external_sources:
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
-#REMOVED
 
 collections:
   news:
     defaults:
       layout: post
-    output: false
+    output: true
     permalink: /news/:path/
   projects:
-    output: false
+    output: true
     permalink: /projects/:path/
 
+#REMOVED
 announcements:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
